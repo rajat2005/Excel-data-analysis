@@ -1,7 +1,6 @@
 # Netflix Movies & TV Shows - Data Cleaning & Exploratory Analysis
 
 ![Netflix Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/320px-Netflix_2015_logo.svg.png)
-*(Add your own visualizations/screenshots here later if you want)*
 
 ## Project Overview
 
